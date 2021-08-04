@@ -1,0 +1,7 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CASTING\Casting\Casting\bin\Debug\Casting.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CASTING\Casting\Casting\bin\Debug\Casting.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CASTING\Casting\Casting\bin\Debug\Casting.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CASTING\Casting\Casting\obj\Debug\Casting.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CASTING\Casting\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CASTING\Casting\Casting\obj\Debug\Casting.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CASTING\Casting\Casting\obj\Debug\Casting.pdb

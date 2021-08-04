@@ -1,0 +1,7 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\EXTENSION METHODS\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\EXTENSION METHODS\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\EXTENSION METHODS\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\EXTENSION METHODS\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\EXTENSION METHODS\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\EXTENSION METHODS\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\EXTENSION METHODS\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

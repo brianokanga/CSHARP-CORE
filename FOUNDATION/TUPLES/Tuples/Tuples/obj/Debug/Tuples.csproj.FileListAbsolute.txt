@@ -1,0 +1,7 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FOUNDATION\TUPLES\Tuples\Tuples\bin\Debug\Tuples.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FOUNDATION\TUPLES\Tuples\Tuples\bin\Debug\Tuples.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FOUNDATION\TUPLES\Tuples\Tuples\bin\Debug\Tuples.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FOUNDATION\TUPLES\Tuples\Tuples\obj\Debug\Tuples.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FOUNDATION\TUPLES\Tuples\Tuples\obj\Debug\Tuples.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FOUNDATION\TUPLES\Tuples\Tuples\obj\Debug\Tuples.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FOUNDATION\TUPLES\Tuples\Tuples\obj\Debug\Tuples.pdb

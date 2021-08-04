@@ -1,0 +1,2 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\INTERFACES\Testability\Testability\obj\Debug\Testability.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\INTERFACES\Testability\Testability\obj\Debug\Testability.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CONSTRUCTORS\Constructors\Constructors\bin\Debug\Constructors.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CONSTRUCTORS\Constructors\Constructors\bin\Debug\Constructors.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CONSTRUCTORS\Constructors\Constructors\bin\Debug\Constructors.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CONSTRUCTORS\Constructors\Constructors\obj\Debug\Constructors.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CONSTRUCTORS\Constructors\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CONSTRUCTORS\Constructors\Constructors\obj\Debug\Constructors.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CONSTRUCTORS\Constructors\Constructors\obj\Debug\Constructors.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FOUNDATION\CLASSES\Constructors\Constructors\bin\Debug\Constructors.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FOUNDATION\CLASSES\Constructors\Constructors\bin\Debug\Constructors.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FOUNDATION\CLASSES\Constructors\Constructors\bin\Debug\Constructors.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FOUNDATION\CLASSES\Constructors\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FOUNDATION\CLASSES\Constructors\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FOUNDATION\CLASSES\Constructors\Constructors\obj\Debug\Constructors.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FOUNDATION\CLASSES\Constructors\Constructors\obj\Debug\Constructors.pdb

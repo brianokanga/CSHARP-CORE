@@ -1,0 +1,7 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\LAMBDA EXPRESSONS\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\LAMBDA EXPRESSONS\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\LAMBDA EXPRESSONS\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\LAMBDA EXPRESSONS\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\LAMBDA EXPRESSONS\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\LAMBDA EXPRESSONS\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\LAMBDA EXPRESSONS\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb

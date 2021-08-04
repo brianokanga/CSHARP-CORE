@@ -1,0 +1,7 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Composition\Composition\bin\Debug\Composition.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Composition\Composition\bin\Debug\Composition.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Composition\Composition\bin\Debug\Composition.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Composition\Composition\obj\Debug\Composition.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Composition\Composition\obj\Debug\Composition.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Composition\Composition\obj\Debug\Composition.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Composition\Composition\obj\Debug\Composition.pdb

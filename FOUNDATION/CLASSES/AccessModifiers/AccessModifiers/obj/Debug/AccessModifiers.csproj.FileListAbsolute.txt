@@ -1,0 +1,10 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\AccessModifiers\bin\Debug\Amazon.dll
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\AccessModifiers\bin\Debug\Amazon.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.CopyComplete

@@ -1,0 +1,7 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\GENERICS\Generics\Generics\bin\Debug\Generics.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\GENERICS\Generics\Generics\bin\Debug\Generics.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\GENERICS\Generics\Generics\bin\Debug\Generics.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\GENERICS\Generics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\GENERICS\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\GENERICS\Generics\Generics\obj\Debug\Generics.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\GENERICS\Generics\Generics\obj\Debug\Generics.pdb

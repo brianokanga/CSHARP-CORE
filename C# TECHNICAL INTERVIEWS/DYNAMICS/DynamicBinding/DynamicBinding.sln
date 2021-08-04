@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicBinding", "DynamicBinding\DynamicBinding.csproj", "{614833D5-4C99-4C6A-BD54-A27FC3C9375A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{614833D5-4C99-4C6A-BD54-A27FC3C9375A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614833D5-4C99-4C6A-BD54-A27FC3C9375A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614833D5-4C99-4C6A-BD54-A27FC3C9375A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614833D5-4C99-4C6A-BD54-A27FC3C9375A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {690966C9-C262-4903-B2A5-3BB196EAFC1E}
+	EndGlobalSection
+EndGlobal

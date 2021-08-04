@@ -1,0 +1,7 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\EXCEPTIONS\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\EXCEPTIONS\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\EXCEPTIONS\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\EXCEPTIONS\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\EXCEPTIONS\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\EXCEPTIONS\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\EXCEPTIONS\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

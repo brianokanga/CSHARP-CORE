@@ -1,0 +1,7 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\POLYMOPHISM\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\POLYMOPHISM\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\POLYMOPHISM\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\POLYMOPHISM\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\POLYMOPHISM\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\POLYMOPHISM\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\POLYMOPHISM\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb

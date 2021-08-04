@@ -1,0 +1,7 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\INTERFACES\Extensibility\Extensibility\bin\Debug\Extensibility.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\INTERFACES\Extensibility\Extensibility\bin\Debug\Extensibility.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\INTERFACES\Extensibility\Extensibility\bin\Debug\Extensibility.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\INTERFACES\Extensibility\Extensibility\obj\Debug\Extensibility.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\INTERFACES\Extensibility\Extensibility\obj\Debug\Extensibility.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\INTERFACES\Extensibility\Extensibility\obj\Debug\Extensibility.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\INTERFACES\Extensibility\Extensibility\obj\Debug\Extensibility.pdb

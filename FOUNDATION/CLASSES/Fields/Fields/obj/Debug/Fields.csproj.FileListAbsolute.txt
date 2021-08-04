@@ -1,0 +1,7 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FIELDS\Fields\Fields\bin\Debug\Fields.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FIELDS\Fields\Fields\bin\Debug\Fields.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FIELDS\Fields\Fields\bin\Debug\Fields.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FIELDS\Fields\Fields\obj\Debug\Fields.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FIELDS\Fields\Fields\obj\Debug\Fields.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FIELDS\Fields\Fields\obj\Debug\Fields.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\FIELDS\Fields\Fields\obj\Debug\Fields.pdb

@@ -1,0 +1,7 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\LINQ\Linq\Linq\bin\Debug\Linq.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\LINQ\Linq\Linq\bin\Debug\Linq.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\LINQ\Linq\Linq\bin\Debug\Linq.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\LINQ\Linq\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\LINQ\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\LINQ\Linq\Linq\obj\Debug\Linq.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\LINQ\Linq\Linq\obj\Debug\Linq.pdb

@@ -1,0 +1,7 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Classes\Classes\bin\Debug\Classes.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Classes\Classes\bin\Debug\Classes.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Classes\Classes\bin\Debug\Classes.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Classes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Classes\Classes\obj\Debug\Classes.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Classes\Classes\obj\Debug\Classes.pdb

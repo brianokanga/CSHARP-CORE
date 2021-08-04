@@ -1,0 +1,7 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\DELEGATES\Delegates\Delegates\bin\Debug\Delegates.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\DELEGATES\Delegates\Delegates\bin\Debug\Delegates.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\DELEGATES\Delegates\Delegates\bin\Debug\Delegates.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\DELEGATES\Delegates\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\DELEGATES\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\DELEGATES\Delegates\Delegates\obj\Debug\Delegates.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\C# TECHNICAL INTERVIEWS\DELEGATES\Delegates\Delegates\obj\Debug\Delegates.pdb

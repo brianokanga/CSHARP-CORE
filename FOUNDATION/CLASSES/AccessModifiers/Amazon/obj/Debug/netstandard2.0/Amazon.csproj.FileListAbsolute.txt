@@ -1,0 +1,9 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\Amazon\bin\Debug\netstandard2.0\Amazon.deps.json
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\Amazon\bin\Debug\netstandard2.0\Amazon.dll
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\Amazon\bin\Debug\netstandard2.0\Amazon.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\Amazon\obj\Debug\netstandard2.0\Amazon.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\Amazon\obj\Debug\netstandard2.0\Amazon.AssemblyInfoInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\Amazon\obj\Debug\netstandard2.0\Amazon.AssemblyInfo.cs
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\Amazon\obj\Debug\netstandard2.0\Amazon.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\Amazon\obj\Debug\netstandard2.0\Amazon.dll
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\AccessModifiers\Amazon\obj\Debug\netstandard2.0\Amazon.pdb

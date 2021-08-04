@@ -1,0 +1,7 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\METHODS\Methods\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\METHODS\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\METHODS\Methods\Methods\bin\Debug\Methods.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\METHODS\Methods\Methods\bin\Debug\Methods.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\METHODS\Methods\Methods\bin\Debug\Methods.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\METHODS\Methods\Methods\obj\Debug\Methods.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\METHODS\Methods\Methods\obj\Debug\Methods.pdb

@@ -1,0 +1,7 @@
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+E:\DATA\DOTNET\CsharpVault\MOSH CSHARP\CLASSES\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
