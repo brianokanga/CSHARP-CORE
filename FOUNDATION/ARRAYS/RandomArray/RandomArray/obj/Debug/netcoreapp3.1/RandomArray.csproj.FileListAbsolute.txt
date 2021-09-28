@@ -1,0 +1,14 @@
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\RandomArray\RandomArray\bin\Debug\netcoreapp3.1\RandomArray.exe
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\RandomArray\RandomArray\bin\Debug\netcoreapp3.1\RandomArray.deps.json
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\RandomArray\RandomArray\bin\Debug\netcoreapp3.1\RandomArray.runtimeconfig.json
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\RandomArray\RandomArray\bin\Debug\netcoreapp3.1\RandomArray.runtimeconfig.dev.json
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\RandomArray\RandomArray\bin\Debug\netcoreapp3.1\RandomArray.dll
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\RandomArray\RandomArray\bin\Debug\netcoreapp3.1\RandomArray.pdb
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\RandomArray\RandomArray\obj\Debug\netcoreapp3.1\RandomArray.csproj.AssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\RandomArray\RandomArray\obj\Debug\netcoreapp3.1\RandomArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\RandomArray\RandomArray\obj\Debug\netcoreapp3.1\RandomArray.AssemblyInfoInputs.cache
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\RandomArray\RandomArray\obj\Debug\netcoreapp3.1\RandomArray.AssemblyInfo.cs
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\RandomArray\RandomArray\obj\Debug\netcoreapp3.1\RandomArray.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\RandomArray\RandomArray\obj\Debug\netcoreapp3.1\RandomArray.dll
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\RandomArray\RandomArray\obj\Debug\netcoreapp3.1\RandomArray.pdb
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\RandomArray\RandomArray\obj\Debug\netcoreapp3.1\RandomArray.genruntimeconfig.cache

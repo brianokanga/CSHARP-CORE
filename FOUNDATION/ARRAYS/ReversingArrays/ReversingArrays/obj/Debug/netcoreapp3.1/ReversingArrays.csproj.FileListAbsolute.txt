@@ -1,0 +1,14 @@
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingArrays\ReversingArrays\obj\Debug\netcoreapp3.1\ReversingArrays.csproj.AssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingArrays\ReversingArrays\obj\Debug\netcoreapp3.1\ReversingArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingArrays\ReversingArrays\obj\Debug\netcoreapp3.1\ReversingArrays.AssemblyInfoInputs.cache
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingArrays\ReversingArrays\obj\Debug\netcoreapp3.1\ReversingArrays.AssemblyInfo.cs
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingArrays\ReversingArrays\obj\Debug\netcoreapp3.1\ReversingArrays.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingArrays\ReversingArrays\bin\Debug\netcoreapp3.1\ReversingArrays.exe
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingArrays\ReversingArrays\bin\Debug\netcoreapp3.1\ReversingArrays.deps.json
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingArrays\ReversingArrays\bin\Debug\netcoreapp3.1\ReversingArrays.runtimeconfig.json
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingArrays\ReversingArrays\bin\Debug\netcoreapp3.1\ReversingArrays.runtimeconfig.dev.json
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingArrays\ReversingArrays\bin\Debug\netcoreapp3.1\ReversingArrays.dll
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingArrays\ReversingArrays\bin\Debug\netcoreapp3.1\ReversingArrays.pdb
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingArrays\ReversingArrays\obj\Debug\netcoreapp3.1\ReversingArrays.dll
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingArrays\ReversingArrays\obj\Debug\netcoreapp3.1\ReversingArrays.pdb
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingArrays\ReversingArrays\obj\Debug\netcoreapp3.1\ReversingArrays.genruntimeconfig.cache

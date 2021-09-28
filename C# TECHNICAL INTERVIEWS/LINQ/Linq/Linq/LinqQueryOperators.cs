@@ -4,8 +4,7 @@ namespace Linq
 {
     public class LinqQueryOperators
     {
-        ////WITH LINQ
-        //var book = new BookRepository().GetBooks();
+        var books = new BookRepository().GetBooks();
 
         ////LINQ QUERY OPERATORS
         //var cheapBooks =
@@ -14,11 +13,11 @@ namespace Linq
         //    orderby b.Title
         //    select b.Title;
 
-        ////LINQ EXTENSION METHODS
-        //var cheapBooks = books
-        //                                .Where(b => b.Price < 10)
-        //                                .OrderBy(b => b.Title)
-        //                                .Select(b => b.Title);
+        //LINQ EXTENSION METHODS
+        var cheapBooks = books
+                        .Where(b => b.Price < 10)
+                        .OrderBy(b => b.Title)
+                        .Select(b => b.Title);
 
 
         //    foreach (var book in cheapBooks)
