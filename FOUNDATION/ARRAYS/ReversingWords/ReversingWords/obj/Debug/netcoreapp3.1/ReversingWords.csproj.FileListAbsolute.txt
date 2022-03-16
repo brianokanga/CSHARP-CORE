@@ -1,0 +1,14 @@
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingWords\ReversingWords\bin\Debug\netcoreapp3.1\ReversingWords.exe
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingWords\ReversingWords\bin\Debug\netcoreapp3.1\ReversingWords.deps.json
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingWords\ReversingWords\bin\Debug\netcoreapp3.1\ReversingWords.runtimeconfig.json
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingWords\ReversingWords\bin\Debug\netcoreapp3.1\ReversingWords.runtimeconfig.dev.json
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingWords\ReversingWords\bin\Debug\netcoreapp3.1\ReversingWords.dll
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingWords\ReversingWords\bin\Debug\netcoreapp3.1\ReversingWords.pdb
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingWords\ReversingWords\obj\Debug\netcoreapp3.1\ReversingWords.csproj.AssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingWords\ReversingWords\obj\Debug\netcoreapp3.1\ReversingWords.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingWords\ReversingWords\obj\Debug\netcoreapp3.1\ReversingWords.AssemblyInfoInputs.cache
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingWords\ReversingWords\obj\Debug\netcoreapp3.1\ReversingWords.AssemblyInfo.cs
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingWords\ReversingWords\obj\Debug\netcoreapp3.1\ReversingWords.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingWords\ReversingWords\obj\Debug\netcoreapp3.1\ReversingWords.dll
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingWords\ReversingWords\obj\Debug\netcoreapp3.1\ReversingWords.pdb
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\ReversingWords\ReversingWords\obj\Debug\netcoreapp3.1\ReversingWords.genruntimeconfig.cache

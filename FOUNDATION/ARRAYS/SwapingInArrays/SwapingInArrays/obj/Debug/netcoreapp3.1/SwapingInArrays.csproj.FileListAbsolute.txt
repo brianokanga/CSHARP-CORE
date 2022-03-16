@@ -1,0 +1,14 @@
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\SwapingInArrays\SwapingInArrays\bin\Debug\netcoreapp3.1\SwapingInArrays.exe
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\SwapingInArrays\SwapingInArrays\bin\Debug\netcoreapp3.1\SwapingInArrays.deps.json
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\SwapingInArrays\SwapingInArrays\bin\Debug\netcoreapp3.1\SwapingInArrays.runtimeconfig.json
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\SwapingInArrays\SwapingInArrays\bin\Debug\netcoreapp3.1\SwapingInArrays.runtimeconfig.dev.json
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\SwapingInArrays\SwapingInArrays\bin\Debug\netcoreapp3.1\SwapingInArrays.dll
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\SwapingInArrays\SwapingInArrays\bin\Debug\netcoreapp3.1\SwapingInArrays.pdb
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\SwapingInArrays\SwapingInArrays\obj\Debug\netcoreapp3.1\SwapingInArrays.csproj.AssemblyReference.cache
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\SwapingInArrays\SwapingInArrays\obj\Debug\netcoreapp3.1\SwapingInArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\SwapingInArrays\SwapingInArrays\obj\Debug\netcoreapp3.1\SwapingInArrays.AssemblyInfoInputs.cache
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\SwapingInArrays\SwapingInArrays\obj\Debug\netcoreapp3.1\SwapingInArrays.AssemblyInfo.cs
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\SwapingInArrays\SwapingInArrays\obj\Debug\netcoreapp3.1\SwapingInArrays.csproj.CoreCompileInputs.cache
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\SwapingInArrays\SwapingInArrays\obj\Debug\netcoreapp3.1\SwapingInArrays.dll
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\SwapingInArrays\SwapingInArrays\obj\Debug\netcoreapp3.1\SwapingInArrays.pdb
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\FOUNDATION\ARRAYS\SwapingInArrays\SwapingInArrays\obj\Debug\netcoreapp3.1\SwapingInArrays.genruntimeconfig.cache

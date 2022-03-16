@@ -12,3 +12,4 @@ E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\C# TECHNICAL INTERVIEWS\LINQ\Linq\Linq\ob
 E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\C# TECHNICAL INTERVIEWS\LINQ\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
 E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\C# TECHNICAL INTERVIEWS\LINQ\Linq\Linq\obj\Debug\Linq.exe
 E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\C# TECHNICAL INTERVIEWS\LINQ\Linq\Linq\obj\Debug\Linq.pdb
+E:\DATA\DOTNET\CsharpVault\CSHARP-CORE\C# TECHNICAL INTERVIEWS\LINQ\Linq\Linq\obj\Debug\Linq.csproj.SuggestedBindingRedirects.cache
